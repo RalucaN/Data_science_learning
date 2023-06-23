@@ -17,6 +17,8 @@ Resources:
 ### 2. Analytics
 - PowerBI, Tableau, Python (pandas, seaborn, plotly)
 - Concepts: data collection, data cleaning, data processing, visualizations
+R
+https://medium.com/@shrunalisalian97/spotify-data-visualization-4c878c8114e
 ### 3. Programming
 - Software: Python and/or R
 - Algorithms: two pointer
@@ -26,6 +28,8 @@ Resources:
 ### 4. Machine learning
 Concepts: Types(supervised, unsupervised, reinforcement), trade-offs (bias-variance)
 Software: Python, R
+
+https://learn.microsoft.com/en-us/training/paths/create-machine-learn-models/
 ### 5. Deep learning
 
 Resources:
