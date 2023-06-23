@@ -8,12 +8,15 @@ I wanted to create this repo as a way of sharing what inspired me to continue le
 
 ## Content
 ### 1. Statistics
+Concepts: descriptive and inferential stats, probabilities
 
 Resources:
 - StatQuest!!! https://www.youtube.com/@statquest
 - MarinStatLectures https://www.youtube.com/@marinstatlectures
 
 ### 2. Analytics
+- PowerBI, Tableau, Python (pandas, seaborn, plotly)
+- Concepts: data collection, data cleaning, data processing, visualizations
 ### 3. Programming
 - Software: Python and/or R
 - Algorithms: two pointer
@@ -21,4 +24,9 @@ Resources:
 Resources:
 - Joma Tech https://www.youtube.com/@jomaoppa
 ### 4. Machine learning
+Concepts: Types(supervised, unsupervised, reinforcement), trade-offs (bias-variance)
+Software: Python, R
 ### 5. Deep learning
+
+Resources:
+Andrew Ng's DeepLearning AI https://learn.deeplearning.ai/
