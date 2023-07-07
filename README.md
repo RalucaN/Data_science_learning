@@ -8,10 +8,12 @@ I wanted to create this repo as a way of sharing what inspired me to continue le
 
 ## Content
 ### 1. Statistics
-Concepts: descriptive and inferential stats, probabilities
+Concepts: descriptive and inferential stats, probabilities, kurtois, (auto)correlation, Probability Distribution and Sampling Distribution
 Inferential statistics  https://medium.com/@simranjeetsingh1497/the-ultimate-guide-to-statistics-part-2-inferential-statistics-54964a1d0e14
 P-value https://rhydhamgupta.medium.com/p-value-explained-clearly-regression-pdf-discrete-45c30b5dc813
 Financial quants https://medium.com/the-modern-scientist/introduction-to-quant-investing-with-python-c215d1014a25
+A/B and hypothesis testing https://medium.com/@nuriiyibaslar/a-b-testing-by-using-python-in-data-science-2d94ba8a945c
+
 
 Resources:
 - StatQuest!!! https://www.youtube.com/@statquest
@@ -19,8 +21,11 @@ Resources:
 
 ### 2. Analytics
 - PowerBI, Tableau, Python (pandas, seaborn, plotly)
-- Concepts: data collection, data cleaning, data processing, visualizations
+- Concepts: data collection, data cleaning (standardization, normalization, encoding), data processing, visualizations
 R https://medium.com/@shrunalisalian97/spotify-data-visualization-4c878c8114e
+Features scaling https://medium.com/@gowthamsr37/which-feature-scaling-technique-to-use-standardization-vs-normalization-9dcf8eafdf8c
+Feature engineering https://medium.com/@simranjeetsingh1497/the-ultimate-guide-to-machine-learning-from-eda-to-model-deployment-part-2-e56ac58785f8
+
 ### 3. Programming
 - Software: Python and/or R
 - Algorithms: two pointer
@@ -32,6 +37,8 @@ Concepts: Types(supervised, unsupervised, reinforcement), trade-offs (bias-varia
 Software: Python, R
 PCA https://medium.com/@gajendra.k.s/principal-component-analysis-pca-a190315de80b
 https://learn.microsoft.com/en-us/training/paths/create-machine-learn-models/
+NLP https://ankushmulkar.medium.com/every-beginner-nlp-engineer-must-know-these-techniques-678605dc6026
+
 ### 5. Deep learning
 
 Resources:
