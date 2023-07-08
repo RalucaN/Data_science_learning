@@ -25,6 +25,7 @@ Resources:
 R https://medium.com/@shrunalisalian97/spotify-data-visualization-4c878c8114e
 Features scaling https://medium.com/@gowthamsr37/which-feature-scaling-technique-to-use-standardization-vs-normalization-9dcf8eafdf8c
 Feature engineering https://medium.com/@simranjeetsingh1497/the-ultimate-guide-to-machine-learning-from-eda-to-model-deployment-part-2-e56ac58785f8
+Powerful one liners in Python https://towardsdatascience.com/powerful-one-liners-in-pandas-every-data-scientist-should-know-737e721b81b6
 
 ### 3. Programming
 - Software: Python and/or R
