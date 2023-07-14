@@ -9,6 +9,8 @@ I wanted to create this repo as a way of sharing what inspired me to continue le
 ## Content
 ### 1. Statistics
 Concepts: descriptive and inferential stats, probabilities, kurtois, (auto)correlation, Probability Distribution and Sampling Distribution
+#### a. Distribution
+Kurtois (outliers detection) https://medium.com/@dancerworld60/kurtosis-and-how-to-find-given-distribution-is-normal-or-not-50ed3b05bf3b
 Inferential statistics  https://medium.com/@simranjeetsingh1497/the-ultimate-guide-to-statistics-part-2-inferential-statistics-54964a1d0e14
 P-value https://rhydhamgupta.medium.com/p-value-explained-clearly-regression-pdf-discrete-45c30b5dc813
 Financial quants https://medium.com/the-modern-scientist/introduction-to-quant-investing-with-python-c215d1014a25
@@ -37,6 +39,7 @@ Resources:
 Concepts: Types(supervised, unsupervised, reinforcement), trade-offs (bias-variance)
 Software: Python, R
 PCA https://medium.com/@gajendra.k.s/principal-component-analysis-pca-a190315de80b
+    https://medium.com/@dancerworld60/demystifying-principal-component-analysis-a-comprehensive-guide-d9c60ef5f409
 https://learn.microsoft.com/en-us/training/paths/create-machine-learn-models/
 NLP https://ankushmulkar.medium.com/every-beginner-nlp-engineer-must-know-these-techniques-678605dc6026
 
